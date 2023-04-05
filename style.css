@@ -30,7 +30,12 @@ body {
 }
 
 .box-four {
-
+  background-color: #90ee90;
+  width: 25vw;
+  height: auto;
+  margin: 20px auto;
+  border: 5px solid greenyellow;
+  padding: 10px 0 10px 0;
 }
 
 .box-five {

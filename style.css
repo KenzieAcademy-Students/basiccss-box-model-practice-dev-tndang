@@ -6,7 +6,9 @@ body {
 /* Only modify the styles within the following CSS Rules */
 
 .box-one {
-  
+  background-color: lightblue;
+  padding-bottom: 100px;
+  text-align: center;
 }
 
 .box-two {

@@ -35,11 +35,17 @@ body {
   height: auto;
   margin: 20px auto;
   border: 5px solid greenyellow;
-  padding: 10px 0 10px 0;
+  padding: 10px;
 }
 
 .box-five {
-
+  width: 100px;
+  margin: auto;
+  border-width: 5px;
+  border-style: dotted;
+  border-color: #008000;
+  padding: 20px 20px 0;
+  padding-bottom: 60px;
 }
 
 .box-six {

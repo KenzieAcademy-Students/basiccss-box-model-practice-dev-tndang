@@ -49,5 +49,10 @@ body {
 }
 
 .box-six {
-
+  width: 80px;
+  margin: -50px auto 0;
+  border-width: 5px;
+  border-style: dashed;
+  border-color: lime;
+  padding: 5px;
 }

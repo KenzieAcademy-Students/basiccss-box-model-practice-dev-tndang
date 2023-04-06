@@ -6,25 +6,53 @@ body {
 /* Only modify the styles within the following CSS Rules */
 
 .box-one {
-  
+  background-color: lightblue;
+  height: 100px;
+  text-align: center;
 }
 
 .box-two {
-
+  background-color: lightcyan;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 100px;
 }
 
 .box-three {
-
+  background-color: rgb(32, 178, 170);
+  width: 500px;
+  height: 20vh;
+  margin: auto;
+  text-align: right;
+  padding: 10px;
 }
 
 .box-four {
-
+  background-color: #90ee90;
+  width: 25vw;
+  height: auto;
+  margin: 20px auto;
+  border: 5px solid greenyellow;
+  padding: 10px;
 }
 
 .box-five {
-
+  width: 100px;
+  margin: auto;
+  border-width: 5px;
+  border-style: dotted;
+  border-color: #008000;
+  padding: 20px 20px 0;
+  padding-bottom: 60px;
 }
 
 .box-six {
-
+  width: 100px;
+  margin: -50px auto 0;
+  border-width: 5px;
+  border-style: dashed;
+  border-color: lime;
+  padding: 5px;
 }
